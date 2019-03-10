@@ -1,7 +1,10 @@
-package me.DanielHuntley.BankingApp;
+package me.DanielHuntley.BankingApp.tests;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
+
+import me.DanielHuntley.BankingApp.Ledger;
+import me.DanielHuntley.BankingApp.LedgerTransaction;
 
 class LedgerTests {
 
